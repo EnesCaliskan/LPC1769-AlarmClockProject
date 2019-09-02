@@ -16,7 +16,7 @@ With this project, LPC1769 board can accomplish the tasks that i listed below:
 
 -Can stop the alarm with the button when the alarm plays.
 
--LED lights on the board changes colors when the alarm plays.
+-LED lights on the board change colors when the alarm plays.
 
 -Turning the rotary on the board allows user to switch on/off the screen.
 
