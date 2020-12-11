@@ -22,3 +22,6 @@ With this project, LPC1769 board can accomplish the tasks that i listed below:
 
 
 This project is final and no additional functions will be added later on. 
+
+![example1](1.jpg)
+![example2](2.jpg)
